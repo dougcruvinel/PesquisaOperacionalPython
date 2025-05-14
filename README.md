@@ -12,6 +12,8 @@ Quantidade de insumos por unidade
 Estoques disponíveis de cada insumo
 
 Com essas informações, o sistema resolve um problema de programação linear e apresenta o plano de produção ideal e o lucro máximo esperado.
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 Description in English:
